@@ -16,7 +16,7 @@ In this project We collected our two datasets from almabetter platform,we merged
 ## Dataset Informatio
 This dataset contains information on Names, Links, cost, collection, cuisines, Timings, Restaurents, Reviewer, Review, Rating, MetaData, Time and pictures. To cluster a data points and for sentiment analysis.
 
-Dataset 1 :
+### Dataset 1 :
 
 Name : Name of Restaurants
 Links : URL Links of Restaurants
@@ -27,6 +27,7 @@ Timings : Restaurant Timings
 Dataset 1 Link:-https://raw.githubusercontent.com/samarthgangurde01/zomato-sentiment-analysis/main/Zomato%20Restaurant%20names%20and%20Metadata.csv
 
 
+### Dataset 2 :
 Restaurant : Name of the Restaurant
 Reviewer : Name of the Reviewer
 Review : Review Text
