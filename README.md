@@ -24,10 +24,8 @@ Cost : Per person estimated Cost of dining
 Collection : Tagging of Restaurants w.r.t. Zomato categories
 Cuisines : Cuisines served by Restaurants
 Timings : Restaurant Timings
-Dataset 1 Link:-
+Dataset 1 Link:-https://raw.githubusercontent.com/samarthgangurde01/zomato-sentiment-analysis/main/Zomato%20Restaurant%20names%20and%20Metadata.csv
 
-
-Dataset 2 :
 
 Restaurant : Name of the Restaurant
 Reviewer : Name of the Reviewer
@@ -36,7 +34,8 @@ Rating : Rating Provided by Reviewer
 MetaData : Reviewer Metadata - No. of Reviews and followers
 Time: Date and Time of Review
 Pictures : No. of pictures posted with review
-Dataset 2 Link:-
+Dataset 2 Link:-https://raw.githubusercontent.com/samarthgangurde01/zomato-sentiment-analysis/main/Zomato%20Restaurant%20reviews.csv
+
 
 
 ## Tools and Libraries Used
