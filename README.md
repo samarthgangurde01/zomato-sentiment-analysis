@@ -62,18 +62,26 @@ Dataset 2 Link:-
 ### For TFIDF
 
             Model	        | Accuracy
+            
 0	MultinomialNB	          |   72%
+
 1	LogisticRegression      |   90%	
+
 2	DecisionTreeClassifier  |   79%
-3 Random forest Regression|   99%
+
+            3 Random forest Regression|   99%
 
 ### For Bag Of Words
 
-            Model	          | Accuracy
-0	MultinomialNB	            |   90%
+            Model	               | Accuracy
+            
+0	MultinomialNB	   |   90%
+
 1	LogisticRegression        |   98%    
+
 2	DecisionTreeClassifier    |   79%
-3 Random forest Regression  |   66%
+
+3            Random forest Regression  |   66%
 
 
 
