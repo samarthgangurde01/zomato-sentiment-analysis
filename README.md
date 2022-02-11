@@ -1,6 +1,6 @@
 
 # Project Title : ZOMATO RESTAURANT CLUSTERING AND SENTIMENT ANALYSIS
-https://th.bing.com/th/id/R.ac9d820c33ac6d356859d2e2dc655bbd?rik=U8rQJ2ik6NpUpg&riu=http%3a%2f%2ftechstory.in%2fwp-content%2fuploads%2f2017%2f09%2fzomato-valuation-1.jpg&ehk=JQM%2bE8fPR1Ovar%2fmUw9ehlkoF6RCKCvCJ%2fUIBN7oxU0%3d&risl=&pid=ImgRaw&r=0
+![image](https://user-images.githubusercontent.com/93859458/153649982-bc8cfcb8-0436-4a0d-8502-01533a89a556.png)
 ## Description
 In this project We collected our two datasets from almabetter platform,we merged datasets on common columns 'name' and 'restuarant' and created new dataset as df. more than half of values from the collection column were missing, we have'nt removed all values, instead of removing NULL value we tried to fill values by others.in preprocessing we removed unwanted columns and moved to Exploratory data analysis,we started clustering of our data in k number of cluster. to find a perfect number of cluster we are using different algorithms like silhouette score, Elbow method etc. In sentiment analysis we are categorizing our rating into two types bad and good. Then using sklearn pipeline module implementing MultinomialNB,LogisticRegression,DecisionTreeClassifier and Random forest Regression
 
