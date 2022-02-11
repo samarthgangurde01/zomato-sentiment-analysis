@@ -1,7 +1,7 @@
 
 # Project Title : ZOMATO RESTAURANT CLUSTERING AND SENTIMENT ANALYSIS
 ## Description
-In this project we are clustering our data in k number of cluster. to find a perfect number of cluster we are using different algorithms like silhouette score, Elbow method etc. In sentiment analysis we are categorizing our rating into two types bad and good. Then using sklearn pipeline module implementing MultinomialNB,LogisticRegression,DecisionTreeClassifier and Random forest Regression
+In this project We collected our two datasets from almabetter platform,we merged datasets on common columns 'name' and 'restuarant' and created new dataset as df. more than half of values from the collection column were missing, we have'nt removed all values, instead of removing NULL value we tried to fill values by others.in preprocessing we removed unwanted columns and moved to Exploratory data analysis,we started clustering of our data in k number of cluster. to find a perfect number of cluster we are using different algorithms like silhouette score, Elbow method etc. In sentiment analysis we are categorizing our rating into two types bad and good. Then using sklearn pipeline module implementing MultinomialNB,LogisticRegression,DecisionTreeClassifier and Random forest Regression
 
 ## Table of Content
 * Dataset Information
@@ -24,6 +24,8 @@ Cost : Per person estimated Cost of dining
 Collection : Tagging of Restaurants w.r.t. Zomato categories
 Cuisines : Cuisines served by Restaurants
 Timings : Restaurant Timings
+Dataset 1 Link:-
+
 
 Dataset 2 :
 
@@ -34,6 +36,7 @@ Rating : Rating Provided by Reviewer
 MetaData : Reviewer Metadata - No. of Reviews and followers
 Time: Date and Time of Review
 Pictures : No. of pictures posted with review
+Dataset 2 Link:-
 
 
 ## Tools and Libraries Used
