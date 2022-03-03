@@ -94,6 +94,7 @@ Dataset 2 Link:-https://raw.githubusercontent.com/samarthgangurde01/zomato-senti
 
 ## Power Bi Report
 
+![image](https://user-images.githubusercontent.com/93859458/156638588-daa2ba29-22fc-4bb8-b5e3-13fe35002c0f.png)
 
 Link :-https://app.powerbi.com/groups/me/reports/59b97260-cae7-43c6-a538-a3f4a4078e06/ReportSection?ctid=7762530d-7592-41e7-836b-c96c3705db76
 
