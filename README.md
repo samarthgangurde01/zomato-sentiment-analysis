@@ -92,8 +92,10 @@ Dataset 2 Link:-https://raw.githubusercontent.com/samarthgangurde01/zomato-senti
 ![image](https://user-images.githubusercontent.com/93859458/153645515-796d2125-ef15-447f-8426-332421a5820d.png)
 ![image](https://user-images.githubusercontent.com/93859458/153645618-878e41d9-fa2b-45ac-9828-c6b87dee5468.png)
 
+## Power Bi Report
 
 
+Link :-https://app.powerbi.com/groups/me/reports/59b97260-cae7-43c6-a538-a3f4a4078e06/ReportSection?ctid=7762530d-7592-41e7-836b-c96c3705db76
 
 ## Business Goal:
 The Project focuses on Customers and Company, you have to analyze the sentiments of the reviews given by the customer in the data and made some useful conclusion in the form of Visualizations. Also, cluster the zomato restaurants into different segments. The data is vizualized as it becomes easy to analyse data at instant. The Analysis also solve some of the business cases that can directly help the customers finding the Best restaurant in their locality and for the company to grow up and work on the fields they are currently lagging in.This could help in clustering the restaurants into segments. Also the data has valuable information around cuisine and costing which can be used in cost vs. benefit analysis
